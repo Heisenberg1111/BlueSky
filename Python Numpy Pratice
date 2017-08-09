@@ -1,1 +1,4 @@
 from numpy import *
+from statistics import *
+
+x=[1,2,3,4,5,6]
